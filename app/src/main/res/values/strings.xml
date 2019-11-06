@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spelling Words</string>
+    
+    <string-array name="Weeks">
+        <item>Week1</item>
+        <item>Week2</item>
+        <item>Week3</item>
+        <item>Week4</item>
+    </string-array>
+    <string-array name="Days">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>
